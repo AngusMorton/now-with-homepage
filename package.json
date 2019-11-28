@@ -1,6 +1,7 @@
 {
   "name": "now-with-homepage",
   "version": "0.1.0",
+  "homepage": "/home",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
